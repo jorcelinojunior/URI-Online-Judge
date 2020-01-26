@@ -1,5 +1,5 @@
 # URI-Judge-Online
-My study codes from the URI Online Judge portal for Programming Marathons, made in C ++.
+My study codes from the URI Online Judge portal for programming marathons, created in C ++.
 
 # Meu Perfil:
 
